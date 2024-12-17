@@ -12,8 +12,10 @@
 지금 바로 케어플리를 이용해보세요!
 </div>
 
-## 1️⃣ Frontend : [https://github.com/uuuueong/carefli-front/blob/main/README.md](https://github.com/uuuueong/carefli-front/blob/main/README.md)
-케어플리 서비스를 재현해보고 싶다면, Frontend의 README 참고해 따라해주세요!
+## 1️⃣ Frontend
+케어플리 서비스를 재현해보고 싶다면, Frontend의 README 참고해 따라해주세요!<br>
+https://github.com/uuuueong/carefli-front/blob/main/README.md
 
-## 2️⃣ Backend : [https://github.com/uuuueong/carefli-front/blob/main/README.md](https://github.com/uuuueong/carefli_back/blob/develop/README.md)
-API의 request, response, 선물 데이터베이스 확인을 하고 싶다면 Backend의 README 참고해 따라해주세요!
+## 2️⃣ Backend
+API의 request, response, 선물 데이터베이스 확인을 하고 싶다면 Backend의 README 참고해 따라해주세요!<br>
+https://github.com/uuuueong/carefli_back/blob/develop/README.md
